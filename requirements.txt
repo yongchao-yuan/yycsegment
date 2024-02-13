@@ -4,6 +4,6 @@ numpy
 opencv-python
 ultralytics
 pathlib
-PIL
+pillow
 urllib
 torch
